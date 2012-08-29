@@ -1,0 +1,4 @@
+A simple Sudoku game using C language and refrences from Harward University lectures.
+You need to install "ncurses library" to run this game.
+The ncurses library is also included in "ncurses" folder.
+After installing ncurses just run "make" in your terminal or compile sudoku.c for windows users.
